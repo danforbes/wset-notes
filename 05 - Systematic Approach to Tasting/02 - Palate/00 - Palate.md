@@ -1,0 +1,13 @@
+---
+aliases:
+  - Palate
+---
+- [[01 - Sweetness|Sweetness]]
+- [[02 - Acidity|Acidity]]
+- [[03 - Tannin|Tannin]]
+- [[04 - Alcohol|Alcohol]]
+- [[05 - Body|Body]]
+- [[06 - Mousse|Mousse]]
+- [[07 - Flavor Intensity|Flavor Intensity]]
+- [[08 - Flavors|Flavors]]
+- [[09 - Finish|Finish]]

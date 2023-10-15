@@ -1,0 +1,9 @@
+- #France/Burgundy/Côte-de-Nuits/Gevrey-Chambertin
+	- #France/Burgundy/Grand-Cru/Côte-de-Nuits/Chambertin
+	- #France/Burgundy/Grand-Cru/Côte-de-Nuits/Chambertin-Clos-de-Bèze
+- #France/Burgundy/Côte-de-Nuits/Vougeout
+	- #France/Burgundy/Grand-Cru/Côte-de-Nuits/Clos-de-Vougeot
+- #France/Burgundy/Côte-de-Nuits/Vosne-Romanée
+	- #France/Burgundy/Grand-Cru/Côte-de-Nuits/Romanée-Conti
+	- #France/Burgundy/Grand-Cru/Côte-de-Nuits/La-Tâche
+	- #France/Burgundy/Grand-Cru/Côte-de-Nuits/La-Romanée

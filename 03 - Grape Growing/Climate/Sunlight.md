@@ -1,0 +1,3 @@
+- #Climate/Sunlight/Low
+- #Climate/Sunlight/Moderate
+- #Climate/Sunlight/High

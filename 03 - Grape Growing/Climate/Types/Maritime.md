@@ -1,0 +1,5 @@
+- Small difference between hottest & coldest months
+- #Climate/Temperature/Cool to #Climate/Temperature/Moderate
+- #Climate/Rainfall/Moderate
+- #Climate/Long-Season
+- #Vineyard/Diseases/Rot

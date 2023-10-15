@@ -1,0 +1,6 @@
+- #Aromas/Primary/Herbal/Eucalyptus
+- #Aromas/Primary/Herbal/Mint
+- #Aromas/Primary/Herbal/Medicinal
+- #Aromas/Primary/Herbal/Lavender
+- #Aromas/Primary/Herbal/Fennel
+- #Aromas/Primary/Herbal/Dill

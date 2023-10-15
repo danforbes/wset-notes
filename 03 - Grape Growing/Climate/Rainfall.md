@@ -1,0 +1,3 @@
+- #Climate/Rainfall/Low
+- #Climate/Rainfall/Moderate
+- #Climate/Rainfall/High

@@ -1,0 +1,4 @@
+- #Styles/Aromatic-Intensity/Neutral
+- #Styles/Aromatic-Intensity/Moderate
+- #Styles/Aromatic-Intensity/Fragrant
+- #Styles/Aromatic-Intensity/Intense

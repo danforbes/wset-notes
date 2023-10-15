@@ -1,0 +1,6 @@
+- #Aromas/Primary/Fruit/Red/Redcurrant
+- #Aromas/Primary/Fruit/Red/Cranberry
+- #Aromas/Primary/Fruit/Red/Raspberry
+- #Aromas/Primary/Fruit/Red/Strawberry
+- #Aromas/Primary/Fruit/Red/Red-Cherry
+- #Aromas/Primary/Fruit/Red/Red-Plum

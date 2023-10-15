@@ -1,0 +1,3 @@
+- [[Chardonnay]]
+- #France/Burgundy/Chablis/Premier-Cru
+- #France/Burgundy/Chablis/Grand-Cru

@@ -1,0 +1,8 @@
+- Produces #Styles/Body/Full, #Styles/Ageworthiness/Can-Age to #Styles/Ageworthiness/Should-Age [[Pinot Noir]] wines
+- Contains all of Burgundy's Grand Crus for red wines *except one*
+- #France/Burgundy/Côte-de-Nuits/Côte-de-Nuits-Villages
+	- #France/Burgundy/Côte-de-Nuits/Gevrey-Chambertin
+	- #France/Burgundy/Côte-de-Nuits/Vougeout
+	- #France/Burgundy/Côte-de-Nuits/Vosne-Romanée
+	- #France/Burgundy/Côte-de-Nuits/Nuits-Saint-Georges
+- [[Côte de Nuits Grand Crus|Grand Crus]]

@@ -1,0 +1,11 @@
+---
+aliases:
+  - Skin Contact
+---
+- #Wine-Making/04-Skin-Contact/None
+- #Wine-Making/04-Skin-Contact/Cold-Maceration
+- #Wine-Making/04-Skin-Contact/Punch-Down
+- #Wine-Making/04-Skin-Contact/Pump-Over
+- #Wine-Making/04-Skin-Contact/Rack-and-Return
+- #Wine-Making/04-Skin-Contact/Rotary
+- #Wine-Making/04-Skin-Contact/Post-Fermentation

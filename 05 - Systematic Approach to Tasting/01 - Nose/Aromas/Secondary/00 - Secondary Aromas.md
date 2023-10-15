@@ -1,0 +1,5 @@
+- Secondary characteristics are created by post-fermentation [[00 - Wine Making|Wine Making]].
+- Clusters of secondary characteristics
+	- [[01 - Yeast|Yeast]]
+	- [[02 - Malolactic Fermentation|Malolactic Fermentation]]
+	- [[03 - Oak|Oak]]

@@ -1,0 +1,12 @@
+---
+aliases:
+  - Mitigations
+---
+- Mitigations are used to reduce the impact of [[Hazards|Hazards]] and [[04 - Pests & Disease|Pests & Disease]].
+- #Vineyard/Mitigations/Grafting
+- #Vineyard/Mitigations/Heaters
+- #Vineyard/Mitigations/Fans
+- #Vineyard/Mitigations/Sprinklers
+- #Vineyard/Mitigations/Design
+- #Vineyard/Mitigations/Netting
+- #Vineyard/Mitigations/Spraying

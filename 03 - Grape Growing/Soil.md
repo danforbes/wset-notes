@@ -1,0 +1,5 @@
+- #Soil/Clay
+- #Soil/Gravel
+- #Soil/Sand
+- #Soil/Limestone
+- #Soil/Well-Draining

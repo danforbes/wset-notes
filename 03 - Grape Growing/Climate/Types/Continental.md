@@ -1,0 +1,3 @@
+- Large difference between hottest & coldest months
+- #Climate/Short-Season
+- #Climate/Hazards/Drought, #Climate/Hazards/Frost

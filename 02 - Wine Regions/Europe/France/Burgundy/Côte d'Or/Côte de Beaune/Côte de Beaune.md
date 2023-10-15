@@ -1,0 +1,12 @@
+- Most famous for its [[Chardonnay]] wines
+- Pinot Noir wines are generally fruitier than those produced in the Côte de Nuits
+- Contains all of Burgundy's Grand Crus for white wines *except one*
+- #France/Burgundy/Côte-de-Beaune/Côte-de-Beaune-Villages
+	- #France/Burgundy/Côte-de-Beaune/Aloxe-Corton
+	- #France/Burgundy/Côte-de-Beaune/Beaune
+	- #France/Burgundy/Côte-de-Beaune/Pommard - red only
+	- #France/Burgundy/Côte-de-Beaune/Volnay - red only
+	- #France/Burgundy/Côte-de-Beaune/Meursault - highest reputation for white wines
+	- #France/Burgundy/Côte-de-Beaune/Puligny-Montrachet - highest reputation for white wines
+	- #France/Burgundy/Côte-de-Beaune/Chassagne-Montrachet - highest reputation for white wines
+- [[Côte de Beaune Grand Crus|Grand Crus]]

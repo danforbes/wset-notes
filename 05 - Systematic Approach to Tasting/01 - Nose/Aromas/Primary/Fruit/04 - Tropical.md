@@ -1,0 +1,6 @@
+- #Aromas/Primary/Fruit/Tropical/Banana
+- #Aromas/Primary/Fruit/Tropical/Lychee
+- #Aromas/Primary/Fruit/Tropical/Mango
+- #Aromas/Primary/Fruit/Tropical/Melon
+- #Aromas/Primary/Fruit/Tropical/Passion-Fruit
+- #Aromas/Primary/Fruit/Tropical/Pineapple

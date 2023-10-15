@@ -1,0 +1,8 @@
+- #Climate/Hazards/Cold
+- #Climate/Hazards/Hot
+- #Climate/Hazards/Drought
+- #Climate/Hazards/Hail
+- #Climate/Hazards/Wet-Spring
+- #Climate/Hazards/Wet-Harvest
+- #Climate/Hazards/Frost
+- #Climate/Hazards/Wind

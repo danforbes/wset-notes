@@ -1,0 +1,15 @@
+---
+aliases:
+  - Alcoholic Fermentation
+---
+- Will not start if the temperature is below 5°C (41°F)
+- Will stop if temperature exceeds  35°C (95°F)
+- #Wine-Making/07-Yeast/Natural
+- #Wine-Making/07-Yeast/Cultured
+- #Wine-Making/07-Fermentation/Cool
+- #Wine-Making/07-Fermentation/Warm
+- #Wine-Making/07-Fermentation/Open-Vessel
+- #Wine-Making/07-Fermentation/Carbonic/Full
+- #Wine-Making/07-Fermentation/Carbonic/Semi
+- #Wine-Making/07-Fermentation/Carbonic/Mixed
+- #Wine-Making/07-Fermentation/Arrested

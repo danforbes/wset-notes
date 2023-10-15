@@ -1,0 +1,3 @@
+- #Aromas/Primary/Other/Flint
+- #Aromas/Primary/Other/Petrichor
+- #Aromas/Primary/Other/Wet-Wool

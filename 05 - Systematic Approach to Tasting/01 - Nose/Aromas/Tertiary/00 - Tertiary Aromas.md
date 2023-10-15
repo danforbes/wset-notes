@@ -1,0 +1,6 @@
+- Tertiary characteristics have their origin in the [[Bottle Ageing]] process.
+- As tertiary characteristics develop [[P[[00 - Primary Aromas|Primary Aromas]]aracteristics decline.
+- Categories of tertiary characteristics
+	- [[01 - Deliberate Oxidation|Deliberate Oxidation]]
+	- [[Fruit Development]]
+	- [[Bottle Age]]

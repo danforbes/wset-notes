@@ -1,0 +1,8 @@
+- #Aromas/Tertiary/Oxidative/Almond
+- #Aromas/Tertiary/Oxidative/Marzipan
+- #Aromas/Tertiary/Oxidative/Hazelnut
+- #Aromas/Tertiary/Oxidative/Walnut
+- #Aromas/Tertiary/Oxidative/Chocolate
+- #Aromas/Tertiary/Oxidative/Coffee
+- #Aromas/Tertiary/Oxidative/Toffee
+- #Aromas/Tertiary/Oxidative/Caramel

@@ -1,0 +1,6 @@
+- #Aromas/Primary/Fruit/Black/Blackcurrant
+- #Aromas/Primary/Fruit/Black/Blackberry
+- #Aromas/Primary/Fruit/Black/Bramble
+- #Aromas/Primary/Fruit/Black/Blueberry
+- #Aromas/Primary/Fruit/Black/Black-Cherry
+- #Aromas/Primary/Fruit/Black/Black-Plum

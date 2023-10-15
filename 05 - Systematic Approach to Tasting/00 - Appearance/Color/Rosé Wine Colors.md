@@ -1,0 +1,3 @@
+- #Appearance/Color/Rosé/Pink
+- #Appearance/Color/Rosé/Salmon
+- #Appearance/Color/Rosé/Orange

@@ -1,0 +1,24 @@
+---
+aliases:
+  - White Grape Varieties
+---
+- [[Albariño]]
+- [[Chardonnay]]
+- [[Chenin Blanc]]
+- [[Cortese]]
+- [[Fiano]]
+- [[Furmint]]
+- [[Garganega]]
+- [[Gewurztraminer]]
+- [[Marsanne]]
+- [[Melon Blanc]]
+- [[Muscadelle]]
+- [[Muscat]]
+- [[Pinot Blanc]]
+- [[Pinot Grigio (Pinot Gris)]]
+- [[Riesling]]
+- [[Roussane]]
+- [[Sauvignon Blanc]]
+- [[Sémillon (Semillon)]]
+- [[Verdicchio]]
+- [[Viognier]]

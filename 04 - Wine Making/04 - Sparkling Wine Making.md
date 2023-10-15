@@ -1,0 +1,15 @@
+---
+aliases:
+  - Sparkling Wine Making
+---
+- #Wine-Making/Sparkling/Traditional
+- #Wine-Making/Sparkling/Transfer
+- #Wine-Making/Sparkling/Ancestral
+- #Wine-Making/Sparkling/Tank
+- #Wine-Making/Sparkling/Asti
+- #Wine-Making/Sparkling/Carbonation
+- #Wine-Making/Sparkling/Non-Vintage
+- #Wine-Making/Sparkling/Vintage
+- #Wine-Making/Sparkling/Blanc-de-Blancs
+- #Wine-Making/Sparkling/Blanc-de-Noirs
+- #Wine-Making/Sparkling/Prestige

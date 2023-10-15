@@ -1,0 +1,5 @@
+- Aromas are separated into three categories
+	- [[00 - Primary Aromas|Primary Aromas]]
+	- [[00 - Secondary Aromas|Secondary Aromas]]
+	- [[00 - Tertiary Aromas|Tertiary Aromas]]
+- Aromas should be qualified as #Aromas/Complexity/Simple *or* #Aromas/Complexity/Complex

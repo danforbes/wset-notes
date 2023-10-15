@@ -1,0 +1,8 @@
+- #Aromas/Primary/Fruit/Dried-Cooked/Fig
+- #Aromas/Primary/Fruit/Dried-Cooked/Prune
+- #Aromas/Primary/Fruit/Dried-Cooked/Raisin
+- #Aromas/Primary/Fruit/Dried-Cooked/Sultana
+- #Aromas/Primary/Fruit/Dried-Cooked/Kirsch
+- #Aromas/Primary/Fruit/Dried-Cooked/Jamminess
+- #Aromas/Primary/Fruit/Dried-Cooked/Baked-Stewed
+- #Aromas/Primary/Fruit/Dried-Cooked/Preserved

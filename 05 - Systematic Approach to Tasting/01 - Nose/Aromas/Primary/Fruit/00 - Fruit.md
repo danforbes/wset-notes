@@ -1,0 +1,9 @@
+- Fruit aromas are separated into several different categories
+	- [[01 - Green|Green]]
+	- [[02 - Citrus|Citrus]]
+	- [[03 - Stone|Stone]]
+	- [[04 - Tropical|Tropical]]
+	- [[05 - Red|Red]]
+	- [[06 - Black|Black]]
+	- [[07 - Dried-Cooked|Dried-Cooked]]
+- Fruit aromas can be additionally qualified as #Aromas/Primary/Fruit/Under-Ripe *or* #Aromas/Primary/Fruit/Ripe *or* #Aromas/Primary/Fruit/Over-Ripe

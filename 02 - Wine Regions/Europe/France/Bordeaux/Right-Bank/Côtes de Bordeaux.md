@@ -1,0 +1,3 @@
+- #France/Bordeaux/Right-Bank/Côtes-de-Bordeaux/Blaye - large region across the Gironde from the Haut-Médoc
+- #France/Bordeaux/Right-Bank/Côtes-de-Bordeaux/Cadillac - across the Garonne from Graves, Barsac, and Sauternes
+- #France/Bordeaux/Right-Bank/Côtes-de-Bordeaux/Castillon, #France/Bordeaux/Right-Bank/Côtes-de-Bordeaux/Francs - adjacent to one another east and north of the town of Saint-Émilion

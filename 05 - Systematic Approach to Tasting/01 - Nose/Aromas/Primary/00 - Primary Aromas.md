@@ -1,0 +1,8 @@
+- Primary characteristics come from the [[Grape Varieties]] or are created during the [[07 - Alcoholic Fermentation|Alcoholic Fermentation]] process.
+- Clusters of primary characteristics
+	- [[00 - Fruit|Fruit]]
+	- [[01 - Floral|Floral]]
+	- [[02 - Herbaceous|Herbaceous]]
+	- [[03 - Herbal|Herbal]]
+	- [[04 - Spice|Spice]]
+	- [[05 - Other Primary Aromas|Other Primary Aromas]]

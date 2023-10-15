@@ -1,0 +1,6 @@
+- #Aromas/Primary/Fruit/Green/Apple
+- #Aromas/Primary/Fruit/Green/Gooseberry
+- #Aromas/Primary/Fruit/Green/Pear
+- #Aromas/Primary/Fruit/Green/Pear-Drop
+- #Aromas/Primary/Fruit/Green/Quince
+- #Aromas/Primary/Fruit/Green/Grape

@@ -1,0 +1,7 @@
+- #Geography/High-Altitude - cooling influence
+- #Geography/Ocean-Currents - moderating, irrigating influence
+- #Geography/Sunny-Aspect - warming influence
+- #Geography/Rain-Shadow - drying influence
+- #Geography/Water-Body - moderating, irrigating influence
+- #Geography/Extreme-Latitude - leads to very warm or very cool weather
+- #Geography/Slopes - warming, draining influence

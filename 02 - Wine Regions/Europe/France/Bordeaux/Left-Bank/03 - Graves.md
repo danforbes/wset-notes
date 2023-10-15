@@ -1,0 +1,4 @@
+- Generic Graves wines are similar in style to wines from the [[01 - Médoc|Médoc]]
+- #France/Bordeaux/Left-Bank/Graves/Pessac-Léognan
+	- #Soil/Gravel
+	- Similar to [[02 - Haut-Médoc|Haut-Médoc]] but more #Styles/Aromatic-Intensity/Fragrant
